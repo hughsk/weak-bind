@@ -1,4 +1,4 @@
-# weak-bind #
+# weak-bind [![Build Status](https://secure.travis-ci.org/hughsk/weak-bind.png?branch=master)](http://travis-ci.org/hughsk/weak-bind)
 
 Once a function is bound, there's no way of un-binding it - i.e. to run it
 under a different context. So, this module is an equivalent to
