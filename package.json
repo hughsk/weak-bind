@@ -1,0 +1,26 @@
+{
+  "name": "weak-bind",
+  "version": "0.0.1",
+  "description": "An overridable equivalent for Function.prototype.bind",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha -u tdd --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hughsk/weak-bind.git"
+  },
+  "keywords": [
+    "weak",
+    "bind",
+    "function",
+    "prototype",
+    "unbind",
+    "override"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  }
+}
